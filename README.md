@@ -3,3 +3,5 @@ Introducing my exciting C language game, inspired by Mario Run! Dodge enemies an
 
 ## Game Play
 https://github.com/Manas-Gowda/Mario-Run-Game/assets/64589324/ed21db71-8b5e-436b-820d-76cce2f88f2d
+
+- Ready for the challenge? Experience the full game now! [Email me](mailto:manasgowda2003@gmail.com) to get your hands on the ultimate gaming adventure!
