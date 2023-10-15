@@ -11,5 +11,5 @@ https://github.com/Manas-Gowda/Mario-Run-Game/assets/64589324/ed21db71-8b5e-436b
 
 <!-- Ready for the challenge? Experience the full game now! [Email me](mailto:manasgowda2003@gmail.com) to get your hands on the ultimate gaming adventure! -->
 **Ready to Take on the Challenge?** 💪
-- [Email me](mailto:manasgowda2003@gmail.com) to experience the full game! 📧🕹️
+- Experience the full game now! [Email me](mailto:manasgowda2003@gmail.com) 📧 to get your hands on the ultimate gaming adventure! 🕹️
 
