@@ -1,2 +1,5 @@
-# Mario-Run-Game
-It is a Mario style game which I made using C language for my 2nd Sem project.
+# Mario Run Game
+Introducing my exciting C language game, inspired by Mario Run! Dodge enemies and obstacles, aiming for the finish line in this challenging adventure. With 3 lives, every playthrough offers new levels and reordered challenges. Can you conquer the ever-changing path and emerge victorious?
+
+## Game Play
+https://github.com/Manas-Gowda/Mario-Run-Game/assets/64589324/ed21db71-8b5e-436b-820d-76cce2f88f2d
